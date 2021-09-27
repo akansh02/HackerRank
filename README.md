@@ -11,3 +11,4 @@ This Repository is created just for personal reference!
 Companies use it to test potential candidates with coding challenges and technical interviews. Developers use it to prepare for potential interviews and upskill on new languages and learn things like data structure and algorithms, as well as to practice different programming languages like - Python, C, C++, SQL, Ruby etc.
     
 My HackerRank Profile -> [akansh_ds](https://www.hackerrank.com/akansh_ds)
+My LinkedIn Profile -> [akansh-sharma-001](linkedin.com/in/akansh-sharma-001)
