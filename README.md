@@ -12,4 +12,4 @@ Companies use it to test potential candidates with coding challenges and technic
     
 My HackerRank Profile -> [akansh_ds](https://www.hackerrank.com/akansh_ds)
 
-My LinkedIn Profile -> [akansh-sharma-001](linkedin.com/in/akansh-sharma-001)
+My LinkedIn Profile -> [akansh-sharma-001](https://www.linkedin.com/in/akansh-sharma-001/)
